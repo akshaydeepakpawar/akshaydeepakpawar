@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/akshay_ppvvtt" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_ppvvtt?logo=twitter&style=for-the-badge" alt="akshay_ppvvtt" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently doing **Web Development Internship**
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **Websites , MEARN**
+- 💬 Ask me about **Websites , MERN**
 
 - 📫 How to reach me **ap3690700@gmail.com**
 
