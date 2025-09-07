@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akshay_ppvvtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_ppvvtt" height="30" width="40" /></a>
+<a href="https://x.com/akshay_jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_jsx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshay-pawar-5b4b5819a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-pawar-5b4b5819a" height="30" width="40" /></a>
 <a href="https://instagram.com/akshay.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay.ppvvtt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCOx7hCP9jTQsKUgaEg1NAgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshay-pawar" height="30" width="40" /></a>
