@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaydeepakpawar&label=Profile%20views&color=0e75b6&style=flat" alt="akshaydeepakpawar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akshay_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_ppvvtt?logo=twitter&style=for-the-badge" alt="akshay_jsx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akshay_jsx" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_jsx?logo=twitter&style=for-the-badge" alt="akshay_jsx" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Solana Blockchain**
 
 - 💬 Ask me about **Websites , MERN**
 
