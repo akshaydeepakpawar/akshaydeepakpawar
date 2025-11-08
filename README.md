@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Solana Blockchain**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Websites , MERN**
 
