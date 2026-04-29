@@ -58,14 +58,22 @@
 
 <h2 align="left">Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaydeepakpawar" width="500" />
- <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaydeepakpawar&layout=compact&langs_count=6&theme=default&hide_border=true" 
-    width="360"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=akshaydeepakpawar" 
+        width="420"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaydeepakpawar&layout=compact&langs_count=6&theme=default&hide_border=true" 
+        width="320"
+      />
+    </td>
+  </tr>
+</table>
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
