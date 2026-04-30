@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
@@ -50,6 +52,8 @@
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="50" alt="netlify logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="50" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="12" />
