@@ -62,27 +62,19 @@
 
 <h2 align="left">Stats</h2>
 
-<table align="center">
-  <tr>
-    <td>
+<div align="center">
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=akshaydeepakpawar" 
         width="420"
       />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaydeepakpawar&layout=compact&langs_count=6&theme=default&hide_border=true" 
-        width="320"
-      />
-    </td>
-  </tr>
-</table>
+</div>
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/akshay-pawar-5b4b5819a/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/></a>&#8287;&#8287;&#8287;
-<a href="https://x.com/akshay_jsx"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/></a>&#8287;&#8287;&#8287;
+<a href="https://x.com/akshay_jsx">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>&#8287;&#8287;&#8287;
 <a href="https://www.youtube.com/@akshay.ppvvtt"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50"/></a>
 </p>
 
