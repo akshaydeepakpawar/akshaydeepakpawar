@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaydeepakpawar&label=Profile%20views&color=0e75b6&style=flat" alt="akshaydeepakpawar" /> </p>
 <h2 align="left">About me</h2>
 
-🔭 I’m currently working on **T3 Chat App**  
+🔭 I’m currently working on **StackSpend MVP**  
 🌱 I’m currently learning **Next.js**  
 💬 Ask me about **Web Development**  
 📫 How to reach me: **ap3690700@gmail.com**
